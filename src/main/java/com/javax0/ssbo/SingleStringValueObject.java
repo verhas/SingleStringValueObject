@@ -2,7 +2,7 @@ package com.javax0.ssbo;
 
 /**
  * A SingleStringValueObject can be used instead of String. For each separate
- * business type a subclass of SingleStringValueObject can be created and the
+ * value type a subclass of SingleStringValueObject can be created and the
  * objects can be treated almost identical as if they were strings. This makes
  * it easy to refactor business code that is already full of String fields.
  * <p>
