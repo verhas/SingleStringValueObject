@@ -2,11 +2,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.javax0</groupId>
-	<artifactId>SingleStringBusinessObject</artifactId>
+	<artifactId>SingleStringValueObject</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>SingleStringBusinessObject</name>
+	<name>SingleStringValueObject</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
@@ -28,9 +28,9 @@
 		</license>
 	</licenses>
 	<scm>
-		<connection>scm:git:git@github.com:verhas/SingleStringBusinessObject.git</connection>
-		<url>https://github.com/verhas/SingleStringBusinessObject</url>
-		<developerConnection>scm:git:git@github.com:verhas/SingleStringBusinessObject.git</developerConnection>
+		<connection>scm:git:git@github.com:verhas/SingleStringValueObject.git</connection>
+		<url>https://github.com/verhas/SingleStringValueObject</url>
+		<developerConnection>scm:git:git@github.com:verhas/SingleStringValueObject.git</developerConnection>
 	</scm>
 	<build>
 		<plugins>
@@ -86,7 +86,7 @@
 		<site>
 			<id>gitHub</id>
 			<name>gitHub</name>
-			<url>git:git@github.com/verhas/SingleStringBusinessObject/SingleStringBusinessObject</url>
+			<url>git:git@github.com/verhas/SingleStringValueObject/SingleStringValueObject</url>
 		</site>
 	</distributionManagement>
 
